@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "557583948293",
+    "project_id": "bloc-practice-78e43",
+    "storage_bucket": "bloc-practice-78e43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557583948293:android:32523129acddd0fd2c9a6c",
+        "android_client_info": {
+          "package_name": "com.example"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4yH-RzwMFpIJhhjN8K8a1x3UpCRtTIzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557583948293:android:0b8d4f97d200f8c72c9a6c",
+        "android_client_info": {
+          "package_name": "com.example.bloc_practice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4yH-RzwMFpIJhhjN8K8a1x3UpCRtTIzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557583948293:android:6ea1cf349cba69452c9a6c",
+        "android_client_info": {
+          "package_name": "com.example.grocery_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4yH-RzwMFpIJhhjN8K8a1x3UpCRtTIzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557583948293:android:aa914ae2972afa742c9a6c",
+        "android_client_info": {
+          "package_name": "com.example.weather_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4yH-RzwMFpIJhhjN8K8a1x3UpCRtTIzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557583948293:android:754fef4ec1d3b2702c9a6c",
+        "android_client_info": {
+          "package_name": "com.huy.blocpractice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4yH-RzwMFpIJhhjN8K8a1x3UpCRtTIzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
